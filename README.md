@@ -18,7 +18,7 @@
 </div>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,postgres,fastapi,selenium,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=github,python,selenium,fastapi,postgres,vscode" /><br>
 </div>
 
 
