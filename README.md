@@ -19,6 +19,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,python,selenium,fastapi,postgres,vscode" /><br>
 </div>
+![snake gif]
+(https://github.com/radini1/radini1/blob/output/github-contribution-grid-snake.gif)
 
 
 
