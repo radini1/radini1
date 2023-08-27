@@ -15,6 +15,9 @@
   <a href="https://linkedin.com/in/radin dolati" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,python,selenium,fastapi,postgres,vscode" /><br>
+</div>
 
 
 
