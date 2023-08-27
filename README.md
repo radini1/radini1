@@ -21,7 +21,10 @@
 </div>
      <hr/>
 <div align="center">
+    <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/radini1/radini1/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 
