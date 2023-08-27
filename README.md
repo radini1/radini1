@@ -22,7 +22,7 @@
      <hr/>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=radini1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-radini1.vercel.app/api?username=radini1&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radini1)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
 </div>
 
