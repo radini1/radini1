@@ -19,12 +19,11 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,python,selenium,fastapi,postgres,vscode" /><br>
 </div>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/radini1/radini1/actions/runs/5990221586/workflow" />
-  
-  <br/><br/><br/>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=radini1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-radini1.vercel.app/api?username=radini1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-radini1.vercel.app/api/top-langs/?username=radini1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
