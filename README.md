@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
       <hr/>
-<h2 align="center" font=Righteous>Skills : </h2>
+<h2 align="center">Skills : </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,python,selenium,fastapi,postgres,vscode" /><br>
