@@ -19,7 +19,7 @@
 <h2 align="center">Skills : </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,selenium,fastapi,postgres,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=github,python,selenium,fastapi,postgres,vscode,mongo" /><br>
 </div>
      <hr/>
 <h2 align="center">Stats : </h2>
